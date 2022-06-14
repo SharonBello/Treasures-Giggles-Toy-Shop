@@ -1,0 +1,38 @@
+[
+    {
+        "isAdmin": "false",
+        "username": "miki",
+        "password": "miki",
+        "fullname": "miki miki"
+    },
+    {
+        "isAdmin": "true",
+        "username": "muki",
+        "password": "muki",
+        "fullname": "muki muki"
+    },
+    {
+        "isAdmin": "false",
+        "username": "tiki",
+        "password": "tiki",
+        "fullname": "tiki tiki"
+    },
+    {
+        "isAdmin": "false",
+        "username": "piki",
+        "password": "piki",
+        "fullname": "piki piki"
+    },
+    {
+        "isAdmin": "false",
+        "username": "niki",
+        "password": "niki",
+        "fullname": "niki niki"
+    },
+    {
+        "isAdmin": "false",
+        "username": "ziki",
+        "password": "ziki",
+        "fullname": "ziki ziki"
+    }
+]

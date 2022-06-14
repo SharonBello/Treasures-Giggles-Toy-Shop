@@ -1,0 +1,10 @@
+.main-content-container {
+    width: 80%;
+    height: 80%;
+    
+    .homepage-container {
+            object-fit: contain;
+            aspect-ratio: 1.5 / 1;
+            margin: 20px 0;        
+    }
+}

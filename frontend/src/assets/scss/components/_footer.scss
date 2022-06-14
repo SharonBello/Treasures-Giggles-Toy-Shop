@@ -1,0 +1,14 @@
+.app-footer {
+    grid-area: app-footer;
+    // background: $clr6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+
+    p{
+        margin: 0;
+        padding: 0;
+    }
+}

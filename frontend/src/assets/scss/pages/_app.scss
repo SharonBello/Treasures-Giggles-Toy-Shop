@@ -1,0 +1,38 @@
+.app-container {
+    height: 100vh;
+  display: grid;
+  grid-template-rows: 78px 78px 78px auto 78px;
+
+  grid-template-areas: "title-header"
+  "header-nav" 
+  "toy-filter-container"
+  "toy-list"
+  "app-footer";
+
+  grid-template-columns: 100%;
+//   gap: 20px;
+    .title-header {
+        grid-row: 1;
+    }
+
+    .header-nav {
+        grid-row: 2;
+    }
+
+    .toy-filter-container {
+        grid-row: 3;
+    }
+
+    .toy-list {
+        grid-row: 4
+    }
+
+    .app-footer {
+        grid-row: 5;
+    }
+}
+
+.add-toy {
+    margin-inline-start: rem(900px);
+    margin-top: rem(20px);
+}

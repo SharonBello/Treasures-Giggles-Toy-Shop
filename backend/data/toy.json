@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Big train",
+    "price": 129.99,
+    "labels": [
+      "on wheels"
+    ],
+    "createdAt": 1652641506449,
+    "review": "Best ever",
+    "inStock": true,
+    "img": "",
+    "rating": []
+  },
+  {
+    "name": "Disney Toy Story Buzz Plush",
+    "price": 12,
+    "labels": [
+      "baby",
+      "doll"
+    ],
+    "createdAt": 1542107359454,
+    "inStock": true,
+    "img": "",
+    "review": "Best ever",
+    "rating": []
+  },
+  {
+    "name": "Thomas & Friends",
+    "price": 180,
+    "labels": [
+      "baby",
+      "doll"
+    ],
+    "createdAt": 1542107359454,
+    "inStock": true,
+    "img": "",
+    "review": "Best ever",
+    "rating": []
+  },
+  {
+    "name": "Lego Gear Bots",
+    "price": 80,
+    "labels": [
+      "box game"
+    ],
+    "createdAt": 1542107359454,
+    "inStock": true,
+    "img": "",
+    "review": "Best ever",
+    "rating": []
+  },
+  {
+    "name": "Spectrum Flip Kite",
+    "price": 50,
+    "labels": [
+      "outdoor"
+    ],
+    "createdAt": 1652076934504,
+    "inStock": true,
+    "img": "",
+    "review": "Best ever",
+    "rating": []
+  },
+  {
+    "name": "Jungle Escape Puzzle",
+    "price": 175,
+    "labels": [
+      "puzzle",
+      "box game"
+    ],
+    "createdAt": 1652201769123,
+    "inStock": true,
+    "img": "",
+    "review": "Best ever",
+    "rating": []
+  },
+  {
+    "name": "Coming soon...",
+    "price": 200,
+    "labels": [
+      "art"
+    ],
+    "createdAt": 1652201769133,
+    "inStock": false,
+    "img": "",
+    "review": "Best ever",
+    "rating": []
+  }
+]

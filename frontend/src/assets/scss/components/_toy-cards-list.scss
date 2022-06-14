@@ -1,0 +1,74 @@
+.toy-list {
+    margin: rem(30px);
+    display: flex;
+    gap: 50px;
+    
+    .toy-preview {
+        align-items: center;
+        margin: unset;
+        padding: unset;
+        gap: rem(20px);
+        font-size: 18px;
+        #action-btn {
+            padding: unset;
+        }
+
+        p, h4 {
+            margin: unset;
+            padding: unset;
+        }
+    
+        .toy-img {
+            width: rem(300px);
+            aspect-ratio: 1/1;
+        }
+
+        .toy-preview-btns {
+            align-items: center;
+            gap: rem(10px); 
+        }
+
+        .toy-preview-btn {
+            // border: 1px solid $clr7;
+            border-radius: rem(5px);
+            // color: $clr6;
+            cursor: pointer;
+            // font-family: baloo;
+            // font-size: 12px;
+        }
+    }
+}
+
+// .toy-btn-add {
+//     // border: 1px solid $clr7;
+//     border-radius: rem(5px);
+//     // color: $clr6;
+//     cursor: pointer;
+// }
+
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 90px;
+    background-color: var(--Gmail-folder-hover);
+    color: var(--header);
+    font-weight: bold;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    left: 105%;
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    font-size: 12px;
+    font-family: lato;
+}
